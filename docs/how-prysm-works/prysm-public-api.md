@@ -41,7 +41,7 @@ Some Prysm specific endpoints are still supported via REST under the prysm/v1 na
 
 * [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Google's API Style Guide](https://cloud.google.com/apis/design/)
-* [Language reference for proto 3](https://developers.google.com/protocol-buffers/proto3)
-* [Protocol Buffer Basics: Go](https://developers.google.com/protocol-buffers/gotutorial)
+* [Language reference for proto 3](https://protobuf.dev/programming-guides/proto3/)
+* [Protocol Buffer Basics: Go](https://protobuf.dev/getting-started/gotutorial/)
 * [Transcoding gRPC to JSON/HTTP using Envoy](https://blog.jdriven.com/2018/11/transcoding-grpc-to-http-json-using-envoy/)
 * [gRPCurl](https://github.com/fullstorydev/grpcurl)
